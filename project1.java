@@ -1,4 +1,4 @@
-//Coulndnt get string method to work, copied from internet but still didnt work
+//to string method not working properly
 //Student
 package Project1;
 
